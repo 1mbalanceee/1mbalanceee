@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**1mbalanceee/1mbalanceee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! I am Pavel Konovalov ![](https://top-fon.com/uploads/posts/2023-01/1674602149_top-fon-com-p-fon-dlya-prezentatsii-s-kubkom-108.png "")
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Researcher, backend programmer
+
+
+ ###[_My telegram channel_](https://t.me/mbalance "мой телега")
+
+
+Here is my experience in IT
+["_Креатив на Волге_"](https://kreativnavolge.ru/win2023)
+
+
+## Languages i know
+**Russian** - native
+**English** - B1 
+
