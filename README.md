@@ -10,11 +10,13 @@
 Here is my experience in IT
 
 
-["_Креатив на Волге_"](https://kreativnavolge.ru/win2023) - winner (750$ award)
+["_Креатив на Волге_2023"](https://kreativnavolge.ru/win2023) - winner (750$ award)
 
+["_Креатив на Волге_2024"](https://kreativnavolge.ru/win2023) - 2nd place
 
-["_Жигулевская долина_"](https://dolinatlt.ru/news/zhigulyovskaya-dolina-priglashaet-na-vserossijskij-hakaton-ii-zhivoj-kod/)- winner (250$ award)
+["_Жигулевская долина_2023"](https://dolinatlt.ru/news/zhigulyovskaya-dolina-priglashaet-na-vserossijskij-hakaton-ii-zhivoj-kod/)- winner (250$ award)
 
+["_Хакатон ОДК Кузнецов_2024"](https://vk.com/wall-103983145_15504) - 2nd place (3000$ award)
 
 
 ## Languages i know
