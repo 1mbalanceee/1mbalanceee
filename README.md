@@ -19,7 +19,7 @@ Here is my experience in IT
 ["_Хакатон ОДК Кузнецов_2024"](https://vk.com/wall-103983145_15504) - 2nd place (3000$ award)
 
 
-## Languages i know
+## Languages I know
 **Russian** - native
 
 **English** - B2 
