@@ -4,7 +4,7 @@
 
 ## Researcher, backend programmer
 
-[My telegram channel](https://t.me/mbalance "мой телега")
+[My telegram](https://t.me/mbalance "мой телега")
 
 
 Here is my experience in IT
