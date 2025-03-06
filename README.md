@@ -22,5 +22,5 @@ Here is my experience in IT
 ## Languages I know
 **Russian** - native
 
-**English** - B2 
+**English** - C1
 
